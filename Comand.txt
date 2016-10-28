@@ -1,0 +1,2 @@
+"C:\Program Files\Autodesk\Revit 2016\Revit.exe" "C:\Temp\journal.0002.txt"
+"C:\Program Files\Autodesk\Revit 2016\Revit.exe" "C:\Temp\journal.0001.txt"
